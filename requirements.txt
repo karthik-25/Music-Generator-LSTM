@@ -2,5 +2,6 @@ tensorflow
 numpy
 pandas
 fluidsynth
+pyfluidsynth
 prettymidi
 seaborn
