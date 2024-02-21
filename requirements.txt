@@ -3,5 +3,5 @@ numpy
 pandas
 fluidsynth
 pyfluidsynth
-prettymidi
+pretty_midi
 seaborn
