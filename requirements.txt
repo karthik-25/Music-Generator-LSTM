@@ -1,7 +1,0 @@
-tensorflow
-numpy
-pandas
-fluidsynth
-pyfluidsynth
-pretty_midi
-seaborn
